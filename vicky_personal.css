@@ -1,0 +1,16 @@
+*{
+margin: 0px;
+padding: 0px;
+}
+
+body{
+    font-family: poppins,sans-serif;
+    margin: 0px;
+    padding: 0px;
+    background-color: #fff;
+}
+section{
+    margin: 5%;
+    width:fit-content
+
+}
